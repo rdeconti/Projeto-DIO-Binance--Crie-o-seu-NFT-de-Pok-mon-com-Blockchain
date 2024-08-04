@@ -13,7 +13,7 @@
 # Projeto Digital Innovation One - BINANCE - Criando um NFT na Prática
 Este projeto foi proposto pela Digital Innovation One
 - Link do código original: https://github.com/digitalinnovationone/formacao-blockchain-dio/blob/main/Modulo%2003%20Desenvolvimento%20com%20Solidity/Curso%2003%20O%20mercado%20de%20blockchain%20e%20criptomoedas/Desafio/PokeDIO.sol
-- Professora: Cassiano Peres
+- Professor: Cassiano Peres
 - Aula: https://web.dio.me/lab/crie-o-seu-nft-de-pokemon/learning/dc197e17-fb12-48b7-8bd6-15eb0f2d989c?back=/track/coding-the-future-blockchain-developer-with-solidity
 
 ## Descrição
